@@ -36,7 +36,7 @@ B.Tech Electrical Engineering, DTU (2028)
 ---
 
 ## 📊 Work Highlights
-- Worked with **large-scale datasets (~60 million records)**  
+- Worked with **large-scale datasets (~10 million records)**  
 - Used **Oracle SQL queries** for filtering, aggregation, joins, and analysis  
 - Built **interactive Power BI dashboards** for visualization and reporting  
 - Performed **basic Python-based data handling**  
@@ -50,10 +50,7 @@ B.Tech Electrical Engineering, DTU (2028)
 DMRC-Internship/
 │── README.md
 │── PowerBI_Dashboard.pdf
-│── images/
-│     ├── dashboard_preview.png
-│── certificates/
-│     ├── internship_certificate.pdf (optional)
+│── internship_certificate.pdf (optional)
 ```
 
 ---
